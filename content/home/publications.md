@@ -1,12 +1,12 @@
-+++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+# This file represents a page section.
+headless: true
 
+<<<<<<< HEAD
 title = "Publications"
 subtitle = ""
 
@@ -70,3 +70,38 @@ subtitle = ""
 <!-- {{% callout note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /callout %}} -->
+=======
+# Order that this section appears on the page.
+weight: 90
+
+title: Recent Publications
+subtitle: ''
+
+content:
+  # Filter on criteria
+  filters:
+    folders:
+      - publication
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 0
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+design:
+  # Choose a view for the listings:
+  view: citation
+  columns: '2'
+---
+
+{{% callout note %}}
+Quickly discover relevant content by [filtering publications](./publication/).
+{{% /callout %}}
+>>>>>>> 8d177463e8f2911088168487354bcd8d4fca7e0a

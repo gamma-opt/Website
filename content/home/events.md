@@ -1,12 +1,12 @@
-+++
-# A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
+---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+# This file represents a page section.
+headless: true
 
+<<<<<<< HEAD:content/home/events.md
 title = "Events"
 subtitle = ""
 
@@ -19,10 +19,34 @@ subtitle = ""
 
   # Choose how many pages you would like to offset by
   offset = 0
+=======
+# Order that this section appears on the page.
+weight: 70
 
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+title: 'Recent & Upcoming Talks'
+subtitle:
+>>>>>>> 8d177463e8f2911088168487354bcd8d4fca7e0a:content/home/talks.md
 
+content:
+  # Page type to display. E.g. post, event, publication...
+  page_type: event
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 5
+  # Filter on criteria
+  filters:
+    author: ''
+    category: ''
+    tag: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+    publication_type: ''
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+
+<<<<<<< HEAD:content/home/events.md
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
@@ -35,10 +59,15 @@ subtitle = ""
 
 [design]
   # Toggle between the various page layout types.
+=======
+design:
+  # Choose a view for the listings:
+>>>>>>> 8d177463e8f2911088168487354bcd8d4fca7e0a:content/home/talks.md
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
+<<<<<<< HEAD:content/home/events.md
   view = 2
 
 [design.background]
@@ -68,3 +97,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+=======
+  view: 2
+---
+>>>>>>> 8d177463e8f2911088168487354bcd8d4fca7e0a:content/home/talks.md

@@ -1,21 +1,42 @@
+<<<<<<< HEAD
 +++
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
+=======
+---
+# An instance of the Portfolio widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: portfolio
+>>>>>>> 8d177463e8f2911088168487354bcd8d4fca7e0a
 
-title = "Projects"
-subtitle = ""
+# This file represents a page section.
+headless: true
 
-[content]
+# Order that this section appears on the page.
+weight: 65
+
+title: Projects
+subtitle: ''
+
+content:
   # Page type to display. E.g. project.
+<<<<<<< HEAD
   page_type = "project"
+=======
+  page_type: project
+
+  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  filter_default: 0
+>>>>>>> 8d177463e8f2911088168487354bcd8d4fca7e0a
 
   # Filter toolbar (optional).
-  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
+  # Add or remove as many filters (`filter_button` instances) as you like.
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
+<<<<<<< HEAD
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
 
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
@@ -36,15 +57,30 @@ subtitle = ""
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
+=======
+  # To remove the toolbar, delete the entire `filter_button` block.
+  filter_button:
+    - name: All
+      tag: '*'
+    - name: Deep Learning
+      tag: Deep Learning
+    - name: Other
+      tag: Demo
+
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '2'
+>>>>>>> 8d177463e8f2911088168487354bcd8d4fca7e0a
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view: 2
 
   # For Showcase view, flip alternate rows?
+<<<<<<< HEAD
   flip_alt_rows = false
 
 [design.background]
@@ -75,3 +111,7 @@ subtitle = ""
  css_class = ""
 +++
 
+=======
+  flip_alt_rows: false
+---
+>>>>>>> 8d177463e8f2911088168487354bcd8d4fca7e0a
