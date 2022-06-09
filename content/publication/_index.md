@@ -8,7 +8,7 @@ cms_exclude: true
 #   2 = APA
 #   3 = MLA
 #   4 = Stream
-list_format = 3
+view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:

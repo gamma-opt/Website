@@ -3,9 +3,6 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
 
-<<<<<<< HEAD
-title = "About us"
-=======
 # Activate this widget? true/false
 active: true
 
@@ -16,7 +13,6 @@ headless: true
 weight: 20
 
 title: Biography
->>>>>>> 8d177463e8f2911088168487354bcd8d4fca7e0a
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.

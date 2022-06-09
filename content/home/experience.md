@@ -1,16 +1,7 @@
-<<<<<<< HEAD
-+++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
-=======
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
->>>>>>> 8d177463e8f2911088168487354bcd8d4fca7e0a
 
 # This file represents a page section.
 headless: true
