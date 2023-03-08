@@ -10,10 +10,6 @@ weight = 65  # Order that this section will appear.
 title = "Posts"
 subtitle = ""
 
-```
- <div class="taggbox" style="width:100%;height:100%" data-widget-id="124785" data-tags="false" ></div><script src="https://widget.taggbox.com/embed-lite.min.js" type="text/javascript"></script>
- ```
-
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
