@@ -33,6 +33,5 @@ The *$\Gamma$-opt* group participated in the [CO@Work](https://co-at-work.zib.de
 The first week of the course focused on the background of solving (MI)LPs and other types of optimization problems. One of the highlights was Robert Bixby, the co-founder of CPLEX, giving lectures on the Simplex method. The second week was mostly focused on different solvers and practical applications, including vehicle routing and gas network control problems. 
 
 Due to the COVID-19 pandemic, the summer school was organized entirely online. The lectures were pre-recorded and uploaded [online](https://www.youtube.com/channel/UCphLz_BXrOAInHozAlTsigA/playlists), meaning that no questions could be asked during the lectures. Instead, the lecturers were available on Zoom for a Q&A session twice a day to accommodate students from all around the globe. This worked quite well, and after some sessions we also had "social activities" (such as mixing drinks on the final day) to address the fun networking side of summer schools. Overall, the course was a very good experience despite the challenges posed by the pandemic. One could even argue that the pandemic was a good thing for this course, as the online course made it possible for hundreds of students from all around the world to participate. 
-```
-<div class="taggbox" style="width:100%;height:100%" data-widget-id="124785" data-tags="false" ></div><script src="https://widget.taggbox.com/embed-lite.min.js" type="text/javascript"></script>
-```
+
+<iframe src="https://widget.taggbox.com/124785" style="width:100%;height:600px;border:none;"></iframe>
