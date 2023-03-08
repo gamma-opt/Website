@@ -7,7 +7,7 @@ weight: 3
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "nikita-belyak"
+- "Nikita Belyak"
 
 # Is this the primary user of the site?
 superuser: false
