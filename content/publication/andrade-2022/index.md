@@ -3,7 +3,7 @@
 
 title: The p-Lagrangian relaxation for separable nonconvex MIQCQP problems
 subtitle: ''
-summary: "
+summary: ''
 authors:
 - Tiago Andrade
 - Nikita Belyak
