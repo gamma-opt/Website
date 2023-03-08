@@ -3,7 +3,7 @@
 
 title: The p-Lagrangian relaxation for separable nonconvex MIQCQP problems
 subtitle: ''
-summary: This paper presents a novel technique to compute Lagrangian bounds for nonconvex mixed-integer quadratically constrained quadratic programming problems presenting a separable structure (i.e., a separable problems) such as those arising in deterministic equivalent representations of two-stage stochastic programming problems. In general, the nonconvex nature of these models still poses a challenge to the available solvers, which do not consistently perform well for larger-scale instances. Therefore, we propose an appealing alternative algorithm that allows for overcoming computational performance issues. Our novel technique, named the p-Lagrangian decomposition, is a decomposition method that combines Lagrangian decomposition with mixed-integer programming-based relaxations. These relaxations are obtained using the reformulated normalised multiparametric disaggregation technique and can be made arbitrarily precise by means of a precision parameter p. We provide a technical analysis showing the convergent behaviour of the approach as the approximation is made increasingly precise. We observe that the proposed method presents significant reductions in computational time when compared with a previously proposed techniques in the literature and the direct employment of a commercial solver. Moreover, our computational experiments show that the employment of a simple heuristic can recover solutions with small duality gaps.
+summary: "
 authors:
 - Tiago Andrade
 - Nikita Belyak
@@ -17,7 +17,7 @@ keywords:
 - '"Reformulated normalised multiparametric disaggregation technique"'
 - '"Nonconvex mixed integer quadratically constrained quadratic programs"'
 - '"Decomposition methods"'
-date: '2019-04-01'
+date: '2022-02-22'
 lastmod: 2022-02-22T16:01:38+03:00
 featured: false
 draft: false
@@ -39,7 +39,8 @@ projects: [p-lagrangian]
 publishDate: '2022-02-22T13:01:38.690790Z'
 publication_types:
 - 2
-abstract: ''
+abstract: This paper presents a novel technique to compute Lagrangian bounds for nonconvex mixed-integer quadratically constrained quadratic programming problems presenting a separable structure (i.e., a separable problems) such as those arising in deterministic equivalent representations of two-stage stochastic programming problems. In general, the nonconvex nature of these models still poses a challenge to the available solvers, which do not consistently perform well for larger-scale instances. Therefore, we propose an appealing alternative algorithm that allows for overcoming computational performance issues. Our novel technique, named the p-Lagrangian decomposition, is a decomposition method that combines Lagrangian decomposition with mixed-integer programming-based relaxations. These relaxations are obtained using the reformulated normalised multiparametric disaggregation technique and can be made arbitrarily precise by means of a precision parameter p. We provide a technical analysis showing the convergent behaviour of the approach as the approximation is made increasingly precise. We observe that the proposed method presents significant reductions in computational time when compared with a previously proposed techniques in the literature and the direct employment of a commercial solver. Moreover, our computational experiments show that the employment of a simple heuristic can recover solutions with small duality gaps.
+
 publication: '*Journal of Global Optimization*'
 url_pdf: https://link.springer.com/article/10.1007/s10898-022-01138-y
 doi: 10.1007/s10898-022-01138-y
