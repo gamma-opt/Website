@@ -14,7 +14,7 @@ title = "Research topics"
 # Add/remove as many `[[feature]]` blocks below as you like.
 #
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-[align = 2  #align to the centre
+
 [[feature]]
   icon = "decision_making"
   icon_pack = "custom"
@@ -36,5 +36,5 @@ title = "Research topics"
   - Lagrangian-based decomposition methods
   - Parallelisation
   """
-  ]
+
 +++
