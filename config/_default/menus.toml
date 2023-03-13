@@ -11,6 +11,11 @@
 [[main]]
   name = "Research"
   url = "#research"
+  weight = 12
+
+[[main]]
+  name = "Applications"
+  url = "#applications"
   weight = 15
 
 [[main]]
