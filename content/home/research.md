@@ -18,7 +18,7 @@ title = "Research topics"
 [[feature]]
   icon = "decision_making"
   icon_pack = "custom"
-  align= "center"
+  align = "2"
   name = "Decision making under uncertainty"
   description = """
   - Endogenous uncertainty
@@ -30,7 +30,7 @@ title = "Research topics"
 [[feature]]
   icon = "decomposition"
   icon_pack = "custom"
-  align= "center"
+  align = "2"
   name = "Efficient formulations and solution methods"
   description = """
   - Convexification techniques
