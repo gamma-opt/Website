@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Research topics"
+title = "Applications"
 # subtitle = "Our research interests"
 
 # Showcase personal skills or business features.
@@ -14,25 +14,54 @@ title = "Research topics"
 #
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = "decision_making"
-  icon_pack = "custom"
-  name = "Decision making under uncertainty"
-  description = """
-  - Endogenous uncertainty
-  - Robust optimisation
-  - Stochastic programming
-  - Time series aggregation
-  """
 
 [[feature]]
-  icon = "decomposition"
+  icon = "renewable_energy"
   icon_pack = "custom"
-  name = "Efficient formulations and solution methods"
+  name = "Renewable energy generation"
   description = """
-  - Convexification techniques
-  - Cutting planes & column generation
-  - Lagrangian-based decomposition methods
-  - Parallelisation
+  - 
+  - 
+  - 
+  -
   """
+  
+  
+  [[feature]]
+  icon = " healthcare"
+  icon_pack = "custom"
+  name = "Healthcare and humanitarian systems"
+  description = """
+  - 
+  - 
+  - 
+  -
+  """
+  
+  [[feature]]
+  icon = " process_systems_planning"
+  icon_pack = "custom"
+  name = "  Process systems planning"
+  description = """
+  - 
+  - 
+  - 
+  -
+  """
+  
+  
+   [[feature]]
+  icon = "logstics_managment"
+  icon_pack = "custom"
+  name = "Logistics management"
+  description = """
+  - 
+  - 
+  - 
+  -
+  """
+
+  
+  
+  
 +++
