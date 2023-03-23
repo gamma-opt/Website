@@ -15,9 +15,6 @@ title = "Research topics"
 #
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-name = "Try 1"
-
 
 [[feature]]
   icon = "decision_making"
@@ -42,7 +39,12 @@ name = "Try 1"
   - Lagrangian-based decomposition methods
   - Parallelisation
   """
-[[feature]]
-name = "Try 2"
 
 +++
+<style>
+    #research .row.featurette .col-12:nth-child(2), 
+    #research .row.featurette .col-12:nth-child(3) {
+    width: 50% !important;
+    max-width: 100% !important;
+    flex: 0 0 50%;
+}</style>
