@@ -21,6 +21,7 @@ title = "Research topics"
   icon_pack = "custom"
   align = "2"
   name = "Decision making under uncertainty"
+  id = "feature1"
   description = """
   - Endogenous uncertainty
   - Robust optimisation
@@ -33,6 +34,7 @@ title = "Research topics"
   icon_pack = "custom"
   align = "2"
   name = "Efficient formulations and solution methods"
+    id = "feature2"
   description = """
   - Convexification techniques
   - Cutting planes & column generation
@@ -42,9 +44,8 @@ title = "Research topics"
 
 +++
 <style>
-    #research .row.featurette .col-12:nth-child(2), 
-    #research .row.featurette .col-12:nth-child(3) {
-    width: 50% !important;
+    #research .row.featurette .col-12:nth-child(3), 
+    #research .row.featurette .col-12:nth-child(4) {
     max-width: 100% !important;
     flex: 0 0 50%;
 }</style>
