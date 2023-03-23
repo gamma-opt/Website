@@ -16,6 +16,10 @@ title = "Research topics"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+name = "Try 1"
+
+
+[[feature]]
   icon = "decision_making"
   icon_pack = "custom"
   align = "2"
@@ -38,5 +42,7 @@ title = "Research topics"
   - Lagrangian-based decomposition methods
   - Parallelisation
   """
+[[feature]]
+name = "Try 2"
 
 +++
