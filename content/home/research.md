@@ -4,7 +4,6 @@ widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
-
 title = "Research topics"
 # subtitle = "Our research interests"
 
@@ -43,9 +42,12 @@ title = "Research topics"
 <style>
 /*research id comes from research.md*/
 /*css selectors come from the generated html code*/
-    #research .row.featurette {justify-content: center}
     #research .row.featurette .col-12:nth-child(3), 
     #research .row.featurette .col-12:nth-child(4) {
     max-width: 100% !important;
     flex: 0 0 50%;
-}</style>
+}
+
+<style>
+ #research .row.featurette {justify-content: center}
+ </style>
