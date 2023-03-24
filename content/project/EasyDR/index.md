@@ -19,7 +19,7 @@ external_link: "https://github.com/gamma-opt/EasyDR.jl"
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Bottom"
+  focal_point: "bottom"
   preview_only: false
 
 # Projects (optional).
