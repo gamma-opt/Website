@@ -52,3 +52,8 @@ title = "Research topics"
     height: 0px
      }
  </style>
+ 
+ <blockquote>
+  #research .row.featurette .col-md-12:nth-child(2){
+    padding: 0rem 0rem     }
+ </blockquote>
