@@ -13,7 +13,6 @@ title = "Research topics"
 #
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-
 [[feature]]
   icon = "decision_making"
   icon_pack = "custom"
@@ -40,20 +39,10 @@ title = "Research topics"
 
 +++
 <style>
-/*research id comes from research.md*/
-/*css selectors come from the generated html code*/
    #research .row.featurette {justify-content: center}
     #research .row.featurette .col-12:nth-child(3), 
     #research .row.featurette .col-12:nth-child(4) {
     max-width: 100% !important;
     flex: 0 0 50%;
-    } 
-    #research .row.featurette .col-md-12:nth-child(2){
-    height: 0px
-     }
  </style>
  
- <blockquote>
-  #research .row.featurette .col-md-12:nth-child(2){
-    padding: 0rem 0rem     }
- </blockquote>
