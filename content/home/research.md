@@ -48,7 +48,7 @@ title = "Research topics"
     max-width: 100% !important;
     flex: 0 0 50%;
     } 
-    #research .row.featurette .col--md-12:nth-child(4) {
+    #research .row.featurette .col--md-12:nth-child(2) {
     max-width: 100% !important;
     flex: 0 0 0%;
 }
