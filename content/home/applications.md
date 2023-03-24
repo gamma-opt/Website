@@ -16,7 +16,7 @@ title = "Applications"
 
 
 [[feature]]
-  icon = "decision_making"
+  icon = "renewable_energy"
   icon_pack = "custom"
   name = "Renewable energy generation"
   description = """
