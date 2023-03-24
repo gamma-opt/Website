@@ -49,15 +49,14 @@ title = "Applications"
   
   
 +++
-
+#applications id comes from applications.md
+#css selectors come from the generated html code
 <style>
-/*applications id comes from applications.md*/
-/*css selectors come from the generated html code*/
     #applications .row.featurette {justify-content: center}
     #applications  .row.featurette .col-12:nth-child(3), 
     #applications  .row.featurette .col-12:nth-child(4), 
     #applications  .row.featurette .col-12:nth-child(5), 
     #applications  .row.featurette .col-12:nth-child(6) {
     max-width: 100% !important;
-    flex: 0 0 25%;
+    flex: 0 0 25%; }
  </style>
