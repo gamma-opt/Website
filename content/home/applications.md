@@ -20,10 +20,6 @@ title = "Applications"
   icon_pack = "custom"
   name = "Renewable energy generation"
   description = """
-  - 
-  - 
-  - 
-  -
   """
   
   
@@ -32,10 +28,6 @@ title = "Applications"
   icon_pack = "custom"
   name = "Healthcare and humanitarian systems"
   description = """
-  - 
-  - 
-  - 
-  -
   """
   
   [[feature]]
@@ -43,10 +35,6 @@ title = "Applications"
   icon_pack = "custom"
   name = "  Process systems planning"
   description = """
-  - 
-  - 
-  - 
-  -
   """
   
   
@@ -55,13 +43,21 @@ title = "Applications"
   icon_pack = "custom"
   name = "Logistics management"
   description = """
-  - 
-  - 
-  - 
-  -
   """
 
   
   
   
 +++
+
+<style>
+/*applications id comes from applications.md*/
+/*css selectors come from the generated html code*/
+    #applications .row.featurette {justify-content: center}
+    #applications  .row.featurette .col-12:nth-child(2), 
+    #applications  .row.featurette .col-12:nth-child(3), 
+    #applications  .row.featurette .col-12:nth-child(4), 
+    #applications  .row.featurette .col-12:nth-child(5) {
+    max-width: 100% !important;
+    flex: 0 0 25%;
+ </style>
