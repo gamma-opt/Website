@@ -49,9 +49,10 @@ title = "Applications"
   
   
 +++
-#applications id comes from applications.md
-#css selectors come from the generated html code
+
 <style>
+ /* applications id comes from applications.md
+css selectors come from the generated html code  */
     #applications .row.featurette {justify-content: center}
     #applications  .row.featurette .col-12:nth-child(3), 
     #applications  .row.featurette .col-12:nth-child(4), 
