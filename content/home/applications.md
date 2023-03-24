@@ -16,7 +16,7 @@ title = "Applications"
 
 
 [[feature]]
-  icon = "renewable_energy"
+  icon = "decision_making"
   icon_pack = "custom"
   name = "Renewable energy generation"
   description = """
@@ -24,14 +24,14 @@ title = "Applications"
   
   
   [[feature]]
-  icon = " healthcare"
+  icon = "decision_making"
   icon_pack = "custom"
   name = "Healthcare and humanitarian systems"
   description = """
   """
   
   [[feature]]
-  icon = " process_systems_planning"
+  icon = "decision_making"
   icon_pack = "custom"
   name = "  Process systems planning"
   description = """
@@ -39,7 +39,7 @@ title = "Applications"
   
   
    [[feature]]
-  icon = "logstics_managment"
+  icon = "decision_making"
   icon_pack = "custom"
   name = "Logistics management"
   description = """
