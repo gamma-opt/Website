@@ -38,9 +38,10 @@ title = "Research topics"
   """
 
 +++
-#applications id comes from applications.md
-#css selectors come from the generated html code
+
 <style>
+ /* applications id comes from applications.md
+css selectors come from the generated html code  */
    #research .row.featurette {justify-content: center}
     #research .row.featurette .col-12:nth-child(3), 
     #research .row.featurette .col-12:nth-child(4) {
